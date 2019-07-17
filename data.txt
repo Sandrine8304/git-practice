@@ -1,0 +1,3 @@
+Name: Sandrine
+Age: 36
+Favorite color: Green
